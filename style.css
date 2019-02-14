@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url("1.jpg");
+	background-position: center;
+	background-size: cover;
+	font-family: sans-serif;
+}
+
+.content{
+	padding-top: 200px;
+	text-align: center;
+	font-size: 20px;
+	color: white;
+}
+
+.log{
+	width: 320px;
+	height: 420px;
+	color: #fff;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+}
